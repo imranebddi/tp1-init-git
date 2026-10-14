@@ -1,2 +1,1 @@
-git add file1.txt
-git status
+1
